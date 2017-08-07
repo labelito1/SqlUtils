@@ -1,0 +1,13 @@
+C:\Users\Edu\documents\visual studio 2012\Projects\RBD\RBD\bin\Debug\Sql.Utils.dll
+C:\Users\Edu\documents\visual studio 2012\Projects\RBD\RBD\bin\Debug\Sql.Utils.pdb
+C:\Users\Edu\documents\visual studio 2012\Projects\RBD\RBD\obj\Debug\Sql.Utils.dll
+C:\Users\Edu\documents\visual studio 2012\Projects\RBD\RBD\obj\Debug\Sql.Utils.pdb
+C:\Users\Edu\Documents\Visual Studio 2012\Projects\SqlUtils\Sql.Utils\bin\Debug\Sql.Utils.dll
+C:\Users\Edu\Documents\Visual Studio 2012\Projects\SqlUtils\Sql.Utils\bin\Debug\Sql.Utils.pdb
+C:\Users\Edu\Documents\Visual Studio 2012\Projects\SqlUtils\Sql.Utils\obj\Debug\Sql.Utils.dll
+C:\Users\Edu\Documents\Visual Studio 2012\Projects\SqlUtils\Sql.Utils\obj\Debug\Sql.Utils.pdb
+C:\Users\Eduardo\Desktop\SqlUtils\Sql.Utils\obj\Debug\Sql.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\SqlUtils\Sql.Utils\bin\Debug\Sql.Utils.dll
+C:\Users\Eduardo\Desktop\SqlUtils\Sql.Utils\bin\Debug\Sql.Utils.pdb
+C:\Users\Eduardo\Desktop\SqlUtils\Sql.Utils\obj\Debug\Sql.Utils.dll
+C:\Users\Eduardo\Desktop\SqlUtils\Sql.Utils\obj\Debug\Sql.Utils.pdb

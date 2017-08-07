@@ -1,0 +1,5 @@
+c:\users\edu\documents\visual studio 2012\Projects\RBD\RBD\obj\Debug\SQLUtils.csprojResolveAssemblyReference.cache
+c:\users\edu\documents\visual studio 2012\Projects\RBD\RBD\bin\Debug\RBD.dll
+c:\users\edu\documents\visual studio 2012\Projects\RBD\RBD\bin\Debug\RBD.pdb
+c:\users\edu\documents\visual studio 2012\Projects\RBD\RBD\obj\Debug\RBD.dll
+c:\users\edu\documents\visual studio 2012\Projects\RBD\RBD\obj\Debug\RBD.pdb
